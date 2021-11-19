@@ -31,7 +31,7 @@
             <table>
                 <tr>
                     <td><button name="button01" type="button">購入履歴   ▷<br>今までの購入履歴です</button></td>
-                    <td><button name="button01" type="button">お気に入り  ▷<br>お気に入りに登録した一覧です</button></td>
+                    <td><button name="button01" type="button">お気に入り.  ▷<br>お気に入りに登録した一覧です</button></td>
                 </tr>
             </table>
         </div>
